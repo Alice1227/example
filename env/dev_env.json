@@ -1,0 +1,43 @@
+{
+    "aesKey": "",
+    "plugin": {
+        "host": "",
+        "category": "",
+        "port": ":80",
+        "table_list": [
+
+        ],
+        "time_list": [
+
+        ]
+    },
+    "sso": {
+        "host": "",
+        "id": "",
+        "kd": "",
+        "token": ""
+    },
+    "apm": {
+        "host": "",
+        "tenant_id": ""
+    },
+    "afs": {
+        "host": "",
+        "instanceId": ""
+    },
+    "dashboard": {
+        "host": ""
+    },
+    "mongo": {
+        "uri": "",
+        "db": "",
+        "collection": {
+            "read": "",
+            "write": ""
+        },
+        "scadaId": ""
+    },
+    "postgres": {
+        "uri": ""
+    }
+}
